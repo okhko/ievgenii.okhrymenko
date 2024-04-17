@@ -50,3 +50,15 @@ Master's degree in Civil Engineering (Industrial and Civil Engineering) (Septemb
 * 3D modeling
 
 I am constantly learning and expanding my knowledge base. Feel free to reach out and connect!
+
+## Languages and Tools
+
+* Python
+* Git
+
+## Social Media
+
+* [LinkedIn]([https://www.linkedin.com/in/okhrymenko/])
+
+
+I am always looking for new challenges and opportunities to learn and grow. If you have any interesting projects or collaborations in mind, please feel free to reach out!
